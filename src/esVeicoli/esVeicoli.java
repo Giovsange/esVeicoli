@@ -20,5 +20,6 @@ public class esVeicoli {
         m1.impenna();
         a1.accelera();
         a1.decelera();
+        System.out.println("stampa di prova per github");
     }
 }
